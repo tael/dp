@@ -1,0 +1,2 @@
+0 * * * * ~/dailypush/daily.sh &> /dev/null
+
