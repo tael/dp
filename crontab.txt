@@ -1,2 +1,2 @@
-*/1 * * * * ~/dp/daily.sh &> /dev/null
+0 * * * * ~/dp/daily.sh &> /dev/null
 
